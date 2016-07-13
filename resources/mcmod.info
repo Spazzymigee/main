@@ -1,0 +1,16 @@
+[
+{
+  "modid": "underwater_expansion",
+  "name": "Underwater Expansion",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Alex Koehn"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

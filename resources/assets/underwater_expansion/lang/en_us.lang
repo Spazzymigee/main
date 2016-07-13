@@ -1,0 +1,33 @@
+tile.underwater_expansion:coralblock_0.name=Blue Coral
+tile.underwater_expansion:coralblock_1.name=Red Coral
+tile.underwater_expansion:coralblock_2.name=Orange Coral
+tile.underwater_expansion:coralblock_3.name=Pink Coral
+
+tile.underwater_expansion:coralStorageblock_0.name=Blue Coral Block
+tile.underwater_expansion:coralStorageblock_1.name=Red Coral Block
+tile.underwater_expansion:coralStorageblock_2.name=Orange Coral Block
+tile.underwater_expansion:coralStorageblock_3.name=Pink Coral Block
+tile.underwater_expansion:coralStorageblock_4.name=Mixed Coral Block
+
+tile.underwater_expansion:ventblock.name=Hydrothermal Vent
+
+tile.underwater_expansion:coralglass_0.name=Blue Coral Glass
+tile.underwater_expansion:coralglass_1.name=Red Coral Glass
+tile.underwater_expansion:coralglass_2.name=Orange Coral Glass
+tile.underwater_expansion:coralglass_3.name=Pink Coral Glass
+
+tile.underwater_expansion:coralbrick_0.name=Blue Coral Brick
+tile.underwater_expansion:coralbrick_1.name=Red Coral Brick
+tile.underwater_expansion:coralbrick_2.name=Orange Coral Brick
+tile.underwater_expansion:coralbrick_3.name=Pink Coral Brick
+
+
+
+item.underwater_expansion:coral_0.name=Blue Coral Chunk
+item.underwater_expansion:coral_1.name=Red Coral Chunk
+item.underwater_expansion:coral_2.name=Orange Coral Chunk
+item.underwater_expansion:coral_3.name=Pink Coral Chunk
+
+item.underwater_expansion:sulfur.name=Sulfur
+
+itemGroup.tabUE=Underwater Expansion
